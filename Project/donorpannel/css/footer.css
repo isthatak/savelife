@@ -1,0 +1,142 @@
+@charset "utf-8";
+.footer {
+}
+
+#footer{
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	height: 250px;
+	width: 976px;
+	padding-top: 20px;
+	padding-right: 0;
+	padding-bottom: 20px;
+	padding-left: 0;
+	}
+
+#footer .verticaline{
+	padding:10px 0;
+	background:url("css/images/footer_verticaline.gif") 270px 0 repeat-y;
+	}
+
+#footer h2, #footer p, #footer ul, #footer a, #footer address{
+	margin:0;
+	padding:0;
+	font-weight:normal;
+	list-style:none;
+	line-height:normal;
+	font-style:normal;
+	}
+
+#footer a{
+	color: #FFFFFF;
+	background-color: #1C1C1C;
+	}
+
+#footer .size1, #footer .size2, #footer .size3{
+	display: block;
+	float: left;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#footer .size1{
+	width: 200px;
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: 65;
+	height: 250px;
+	margin-left: 10px;
+	border-right-width: thin;
+	border-right-style: solid;
+	border-right-color: #999;
+}
+#footer .size2{
+	width: 200px;
+	color: #FFF;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 55px;
+	height: 250px;
+}
+#footer .size3{
+	width: 450px;
+	color: #FFF;
+	height: 250px;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 30px;
+}
+#footer .size3 span{
+	display: inline-block;
+	width: 120px;
+	font-size: 26px;
+	color: #FFF;
+}
+#footer .size3 ul{
+	margin-bottom: 20px;
+}
+
+#footer .size1 h2, #footer .title{
+	color: #6B6B6B;
+	background-color: #1C1C1C;
+	font-weight: normal;
+	font-size: 16px;
+	}
+
+#footer .size1 h2{
+	font-size:56px;
+	margin-bottom:22px;
+	}
+
+#footer address{
+	line-height: 2em;
+	margin-bottom: 15px;
+	font-size: 14px;
+	color: #FFF;
+	}
+
+#footer li{
+	margin-bottom:15px;
+	}
+
+#footer .last{
+	margin:0;
+	}
+
+#copyright{
+	border-top: 1px solid #333333;
+	width: 1200px;
+	padding-top: 15px;
+	padding-right: 0;
+	padding-bottom: 15px;
+	padding-left: 0;
+	height: 20px;
+	margin-right: 80px;
+	margin-left: 80px;
+	}
+
+#copyright p{
+	margin:0;
+	padding:0;
+	}
+
+#copyright, #copyright a{
+	color:#6B6B6B;
+	background-color:#1C1C1C;
+	}
+.middle {
+	height: 4px;
+	width: 955px;
+}
+	.middle {
+	height: 3px;
+	width: 955px;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+

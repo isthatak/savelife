@@ -1,0 +1,83 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+
+.topbg{
+background:url(images/topbg.jpg) repeat-x top;height:37px;
+
+}
+
+.topbg2{
+background:url(images/topbg2.jpg) repeat-x top;height:164px;
+}
+
+.menubg{
+background:url(images/menubg.jpg) bottom repeat-x;height:43px;
+}
+
+
+.menu{font-family:"Century Gothic",Verdana, Arial, Helvetica, sans-serif;  text-align:center;font-size:13px;font-weight:bold; padding-left:10px;padding-right:10px;text-align:center;}
+.menu:link{text-decoration:none;color: #ffffff}
+.menu:visited {text-decoration:none;color: #ffffff}
+.menu:hover {color: #ffd1d1}
+
+.prodmenu{font-family:"Century Gothic",Verdana, Arial, Helvetica, sans-serif;font-weight:bold; padding-left:10px;padding-right:10px;}
+.prodmenu:link{text-decoration:none;color: #990000}
+.prodmenu:visited {text-decoration:none;color: #990000}
+.prodmenu:hover {color: #333333}
+
+.bottomenu{font-family:"Century Gothic",Verdana, Arial, Helvetica, sans-serif;  text-align:center;font-size:11px; padding-left:10px;padding-right:10px;text-align:center;}
+.bottomenu:link{text-decoration:none;color: #fe868a}
+.bottomenu:visited {text-decoration:none;color: #fe868a}
+.bottomenu:hover {color: #ffd1d1}
+
+
+.linebg{
+background:url(images/dotline.gif) repeat-x center;
+
+}
+
+.subheading{
+font-family:"Century Gothic",Verdana, Arial, Helvetica, sans-serif; font-size:13px;font-weight:bold; color:#333333;
+}
+
+.innertext{
+font-family: "Century Gothic",Verdana, Arial, Helvetica, sans-serif; font-size:13px; text-align:justify;
+
+}
+
+.innertext2{
+font-family:"Century Gothic",Verdana, Arial, Helvetica, sans-serif; font-size:13px;  color: #fe868a;
+}
+
+
+.dotline2{
+background:url(images/dotline2.jpg) repeat-y center;
+}
+
+.dotline3{
+background:url(images/dotline3.jpg) repeat-y center;
+
+}
+
+
+
+.bottombg{
+background:url(images/bottombg2.jpg) repeat-x top;
+
+}
+
+
+UL LI 
+{ 
+
+/*list-style-image: url(images/bullet.jpg);*/
+list-style-type: disc;}
+
+.textbr{
+font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#990000;border:#CCCCCC solid 1px; padding-left:5px; padding-right:5px;
+}
